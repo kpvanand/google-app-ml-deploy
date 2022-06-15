@@ -2,3 +2,5 @@ requests
 numpy
 scikit-learn
 Flask
+gunicorn==20.0.4
+scikit-learn
